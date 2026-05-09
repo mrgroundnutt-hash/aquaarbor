@@ -1,6 +1,0 @@
-{
-  "name": "AQUAARBOR",
-  "description": "Cyber-Garden aquarium automation dashboard",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": []
-}
